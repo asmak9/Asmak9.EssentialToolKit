@@ -43,14 +43,14 @@ string apiKey = RESTWebAPIKey.GenerateAPIKey(myPassword, mysaltKey);
 
 Like, Share, Support, Subscribe!!!
 
-#### YouTube: https://bit.ly/3bgtnrH 
+#### YouTube: https://bit.ly/2sY1aBb 
 
 #### Website: https://www.asmak9.com/
 
-#### E-Store Bytezaar: https://www.bytezaar.com/ 
+#### E-Store Bytezaar: https://www.bytezaar.com/
 
 #### Facebook: https://www.facebook.com/AK.asmak9/
 
-#### LinkedIn: https://www.linkedin.com/company/asmak9 
+#### LinkedIn: https://www.linkedin.com/company/asmak9
 
 #### Twitter: https://twitter.com/asmak/
