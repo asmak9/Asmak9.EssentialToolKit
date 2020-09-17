@@ -62,6 +62,22 @@ fileManagerKit.MethodName();
 
 ```
 
+# Basic Usage for DateTimeFormats class
+
+```C#
+
+// Initialization (For 30 Days free Trial).
+DateTimeFormats datetimeFormats = new DateTimeFormatst();
+
+// Initialization (After Purchasing License Key).
+string licenseKey = "YOUR_LICENSE_KEY";
+DateTimeFormats datetimeFormats = new DateTimeFormats(licenseKey);
+
+// To Access Date/Time Formats (Format Properties utilization detail is avilable in documentation with sample code).
+datetimeFormats.FormatProperty;
+
+```
+
 # Examples
 
 1. [Generate API Key](https://bit.ly/2KNwcVD)
