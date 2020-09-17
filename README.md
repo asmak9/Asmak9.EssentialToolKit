@@ -78,10 +78,11 @@ datetimeFormats.FormatProperty;
 
 ```
 
-# Examples
+# UtilityKit class Documentation with Sample Codes
 
-1. [Generate API Key](https://bit.ly/2KNwcVD)
-2. [ASP.NET REST Web API Basic Authorization](https://bit.ly/2pGrHVo)
+1. [How to Check Internet Status](#)
+2. [How to Convert Number to Comma Separated Notation](#)
+3. [How to Encode Content to Base64](#)
 
 <br/>
 <br/>
