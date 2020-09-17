@@ -1,20 +1,48 @@
 # Essential Tool Kit Library
-**Asmak9.EssentialToolKit** is a 30 days free trial library that provides **UtilityKit** and **FileManagerKit**  classes. **UtilityKit** class contains many commonly utilize methods and **FileManager** class contains many commonly utilize I/O operation methods for quick/easy development. You can install this library via Nuget package and enjoy 30 days free trial. You can use this library into your any .NET projects.
+**Asmak9.EssentialToolKit** is a 30 days free trial library that provides **UtilityKit** and **FileManagerKit** and **DateTimeFormats**  classes. **UtilityKit** class contains many commonly utilize methods, **FileManager** class contains many commonly utilize I/O operation methods and **DateTimeFormats** class provides many pre-defined Date/Time format values for quick/easy development. The **TrialExpirationInfo** class will provide detail information about this library's trial period expiration. You can install this library via Nuget package and enjoy 30 days free trial. You can use this library into your any .NET projects.
 
 ### Nuget Installation Version 1.0.0: https://www.nuget.org/packages/Asmak9.AuthorizeRESTWebApiAK/
 
 ### [Buy License Key](https://bit.ly/354pOkv) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
+# Basic Usage for TrialExpirationInfo class
+
+```C#
+
+// Initialization (For 30 Days free Trial).
+TrialExpirationInfo trialExpireInfo = new TrialExpirationInfo();
+
+// Initialization (After Purchasing License Key).
+string licenseKey = "YOUR_LICENSE_KEY";
+TrialExpirationInfo trialExpireInfo = new TrialExpirationInfo(licenseKey);
+
+// To Get Trial Expiration Date.
+string trialExpireDate = trialExpireInfo.TrialExpireDate;
+
+// To Get Trial Expiration Time.
+string trialExpireTime = trialExpireInfo.TrialExpireTime;
+
+// To Get Total Remaining Trial Expiration Days.
+string trialExpireTime = trialExpireInfo.TotalRemainingTrialExpireDays;
+
+// To Get Trial Expiration Detail Message.
+string trialExpireTime = trialExpireInfo.TrialExpirationDetail;
+
+```
+
 # Basic Usage for UtilityKit class
 
 ```C#
 
-// Initialization.
-string myPassword = "mypassword";
-string mysaltKey = "mysaltkey";
+// Initialization (For 30 Days free Trial).
+UtilityKit utilityKit = new UtilityKit();
 
-// Generate API key.
-string apiKey = RESTWebAPIKey.GenerateAPIKey(myPassword, mysaltKey);
+// Initialization (After Purchasing License Key).
+string licenseKey = "YOUR_LICENSE_KEY";
+UtilityKit utilityKit = new UtilityKit(licenseKey);
+
+// To Access Method (Methods utilization detail is avilable in documentation with sample code).
+utilityKit.MethodName();
 
 ```
 
@@ -22,12 +50,15 @@ string apiKey = RESTWebAPIKey.GenerateAPIKey(myPassword, mysaltKey);
 
 ```C#
 
-// Initialization.
-string myPassword = "mypassword";
-string mysaltKey = "mysaltkey";
+// Initialization (For 30 Days free Trial).
+FileManagerKit fileManagerKit = new FileManagerKit();
 
-// Generate API key.
-string apiKey = RESTWebAPIKey.GenerateAPIKey(myPassword, mysaltKey);
+// Initialization (After Purchasing License Key).
+string licenseKey = "YOUR_LICENSE_KEY";
+FileManagerKit fileManagerKit = new FileManagerKit(licenseKey);
+
+// To Access Method (Methods utilization detail is avilable in documentation with sample code).
+fileManagerKit.MethodName();
 
 ```
 
