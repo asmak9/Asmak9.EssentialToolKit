@@ -78,6 +78,10 @@ datetimeFormats.FormatProperty;
 
 ```
 
+# TrialExpirationInfo class Documentation (Coming Soon)
+
+1. Library Trial Expiration Information
+
 # UtilityKit class Methods Documentation (Coming Soon)
 
 1. Build Web Url Query Params Method
