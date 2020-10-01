@@ -81,7 +81,7 @@ datetimeFormats.FormatProperty;
 # UtilityKit class Methods Documentation (Coming Soon)
 
 1. [Build Web Url Query Params Method](#)
-2. [Contains System MAC Address Method](#) 
+2. [Contains MAC Address of the System Method](#) 
 3. [Convert Base64 to BitmapImage Method](#) 
 4. [Convert Bitmap to BitmapImage Method](#) 
 5. [Convert Bitmap to Bytes Method](#) 
@@ -97,7 +97,7 @@ datetimeFormats.FormatProperty;
 15. [Decode Bytes From Base64 Method](#) 
 16. [Decode String From Base64 Method](#)
 17. [Encode Content to Base64 Method](#) 
-18. [Get System All MAC Addresses Method](#)
+18. [Get All MAC Addresses of the System Method](#)
 19. [Get App Assembly Version Method](#)
 20. [Get App Configuration Settings Method](#)
 21. [Get App File Version Method](#)
