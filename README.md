@@ -80,71 +80,71 @@ datetimeFormats.FormatProperty;
 
 # UtilityKit class Methods Documentation (Coming Soon)
 
-1. [Build Web Url Query Params Method]()
-2. [Contains MAC Address of the System Method]() 
-3. [Convert Base64 to BitmapImage Method]() 
-4. [Convert Bitmap to BitmapImage Method]() 
-5. [Convert Bitmap to Bytes Method]() 
-6. [Convert Bytes to Bitmap Method]()
-7. [Convert Bytes to BitmapImage Method]() 
-8. [Convert DateTime to String Method]() 
-9. [Convert DateTime to TimeSpan Method]()
-10. [Convert List to Datatables Method]() 
-11. [Convert List to String Method]() 
-12. [Convert Number to Comma Separated Notation Method]() 
-13. [Convert Text to BitmapImage Method]() 
-14. [Convert TimeSpan to DateTime Method]() 
-15. [Decode Bytes From Base64 Method]() 
-16. [Decode String From Base64 Method]()
-17. [Encode Content to Base64 Method]() 
-18. [Get All MAC Addresses of the System Method]()
-19. [Get App Assembly Version Method]()
-20. [Get App Configuration Settings Method]()
-21. [Get App File Version Method]()
-22. [Get Time Duration Method]()
-23. [Get Total Days Method]()
-24. [Get Total Months Method]()
-25. [Get Total Years Method]()
-26. [Internet Status Method]()
-27. [Is Time AM Method]()
+1. Build Web Url Query Params Method
+2. Contains MAC Address of the System Method
+3. Convert Base64 to BitmapImage Method 
+4. Convert Bitmap to BitmapImage Method
+5. Convert Bitmap to Bytes Method
+6. Convert Bytes to Bitmap Method
+7. Convert Bytes to BitmapImage Method
+8. Convert DateTime to String Method
+9. Convert DateTime to TimeSpan Method
+10. Convert List to Datatables Method
+11. Convert List to String Method
+12. Convert Number to Comma Separated Notation Method
+13. Convert Text to BitmapImage Method
+14. Convert TimeSpan to DateTime Method
+15. Decode Bytes From Base64 Method
+16. Decode String From Base64 Method
+17. Encode Content to Base64 Method
+18. Get All MAC Addresses of the System Metho
+19. Get App Assembly Version Method
+20. Get App Configuration Settings Method
+21. Get App File Version Method
+22. Get Time Duration Method
+23. Get Total Days Method
+24. Get Total Months Method
+25. Get Total Years Method
+26. Internet Status Method
+27. Is Time AM Method
 
 # FileManagerKit class Methods Documentation (Coming Soon)
 
-1. [Convert File Image to Bytes Method]()
-2. [Copy File Method]() 
-3. [Copy Folder Method]() 
-4. [Create File Method]() 
-5. [Create Folder Method]() 
-6. [Export CSV File Method]()
-7. [Get AppData Local Folder File Full Path Method]() 
-8. [Get AppData Local Folder Full Path Method]() 
-9. [Get AppData Local Temp Folder File Full Path Method]()
-10. [Get AppData Local Temp Folder Full Path Method]()
-11. [Get AppData Roaming Folder File Full Path Method]() 
-12. [Get AppData Roaming Folder Full Path Method]()  
-13. [Get Desktop Folder File Full Path Method]() 
-14. [Get Desktop Folder Full Path Method]() 
-15. [Get MyDocument Folder File Full Path Method]() 
-16. [Get MyDocument Folder Full Path]()
-17. [Get Project Folder File Full Path Method]() 
-18. [Get Project Folder Full Path Method]()
-19. [Get Random File Name Method]()
-20. [Get Windows Folder File Full Path Method]()
-21. [Get Windows Folder Full Path Method]()
-22. [Get Windows Program File Folder File Full Path Method]()
-23. [Get Windows Program File Folder Full Path Method]()
-24. [Get Windows Program File X86 Folder File Full Path Method]()
-25. [Get Windows Program File X86 Folder Full Path Method]()
-26. [Import CSV File Method]()
-27. [Move File Method]()
-28. [Move Folder Method]()
-29. [Remove File Method]()
-30. [Remove Folder Method]()
-31. [UnZip Folder Method]()
-32. [Write Base64 to File Method]()
-33. [Write Binary Content to File Method]()
-34. [Write Content to File Method]()
-35. [Zip Folder Method]()
+1. Convert File Image to Bytes Method
+2. Copy File Method
+3. Copy Folder Method 
+4. Create File Method 
+5. Create Folder Method
+6. Export CSV File Method
+7. Get AppData Local Folder File Full Path Method 
+8. Get AppData Local Folder Full Path Method
+9. Get AppData Local Temp Folder File Full Path Method
+10. Get AppData Local Temp Folder Full Path Method
+11. Get AppData Roaming Folder File Full Path Method 
+12. Get AppData Roaming Folder Full Path Method 
+13. Get Desktop Folder File Full Path Method
+14. Get Desktop Folder Full Path Method
+15. Get MyDocument Folder File Full Path Method
+16. Get MyDocument Folder Full Path
+17. Get Project Folder File Full Path Method
+18. Get Project Folder Full Path Method
+19. Get Random File Name Method
+20. Get Windows Folder File Full Path Method
+21. Get Windows Folder Full Path Method
+22. Get Windows Program File Folder File Full Path Method
+23. Get Windows Program File Folder Full Path Method
+24. Get Windows Program File X86 Folder File Full Path Method
+25. Get Windows Program File X86 Folder Full Path Method
+26. Import CSV File Method
+27. Move File Method
+28. Move Folder Method
+29. Remove File Method
+30. Remove Folder Method
+31. UnZip Folder Method
+32. Write Base64 to File Method
+33. Write Binary Content to File Method
+34. Write Content to File Method
+35. Zip Folder Method
 
 <br/>
 <br/>
