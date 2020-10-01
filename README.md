@@ -146,6 +146,46 @@ datetimeFormats.FormatProperty;
 34. Write Content to File Method
 35. Zip Folder Method
 
+# DateTimeFormats class Pre-Defined Formats
+
+1. DateTime Formats usage Documentation (Coming Soon)
+
+```C#
+/*
+
+Default Date Format:            2020-10-01
+Date Format-1:                  Thu, 01-Oct-2020
+Date Format-2:                  Thursday, 01-Oct-2020
+Date Format-3:                  01 October, 2020
+Date Format-4:                  01-Oct-2020
+Date Format-5:                  Thu, 01 October, 2020
+Date Format-6:                  Thursday, 01 October, 2020
+
+Default Time Format:            12:58:03.198
+Time Format-1:                  12:58:03
+Time Format-2:                  12:58:03 PM
+Time Format-3:                  12:58 PM
+Time Format-4:                  12:58:03.198 PM
+Time Format-5:                  12:58
+
+Default DateTime Format:       2020-10-01 12:58:03.198
+DateTime Format-1:             01-Oct-2020 12:58:03 PM
+DateTime Format-2:             Thursday, 01-Oct-2020 12:58:03 PM
+DateTime Format-3:             Thu, 01-Oct-2020 12:58:03 PM
+DateTime Format-4:             Thursday, 01-10-2020 12:58:03
+DateTime Format-5:             Thu, 01-10-2020 12:58:03
+DateTime Format-6:             Thu, 01 October, 2020 12:58:03
+DateTime Format-7:             01 October, 2020 12:58:03 PM
+DateTime Format-8:             Thu, 01 October, 2020 12:58 PM
+DateTime Format-9:             Thursday, 01 October, 2020 12:58:03 PM
+DateTime Format-10:            Thursday, 01 October, 2020 12:58:03
+DateTime Format-11:            01-Oct-2020 12:58:03
+DateTime Format-12:            01 October, 2020 12:58:03
+
+*/
+
+```
+
 <br/>
 <br/>
 <br/>
