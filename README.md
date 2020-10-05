@@ -78,9 +78,9 @@ datetimeFormats.FormatProperty;
 
 ```
 
-# TrialExpirationInfo class Documentation (Coming Soon)
+# TrialExpirationInfo class Documentation
 
-1. Library Trial Expiration Information
+1. [Library Trial Expiration Information] (https://bit.ly/3iwLrQO)
 
 # UtilityKit class Methods Documentation (Coming Soon)
 
