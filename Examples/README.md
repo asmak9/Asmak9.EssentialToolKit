@@ -5,9 +5,9 @@
 
 ### [Buy License Key](https://bit.ly/3mzMQsU) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
-# TrialExpirationInfo class Documentation (Coming Soon)
+# TrialExpirationInfo class Documentation
 
-1. Library Trial Expiration Information
+1. [Library Trial Expiration Information](https://bit.ly/3iwLrQO)
 
 # UtilityKit class Methods Documentation (Coming Soon)
 
