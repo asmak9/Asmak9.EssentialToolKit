@@ -11,7 +11,7 @@
 
 # UtilityKit class Methods Documentation (Coming Soon)
 
-1. Build Web Url Query Params Method
+1. [Build Web Url Query Params Method](https://bit.ly/3jIYAaE)
 2. Contains MAC Address of the System Method
 3. Convert Base64 to BitmapImage Method 
 4. Convert Bitmap to BitmapImage Method
