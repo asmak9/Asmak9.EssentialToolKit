@@ -9,7 +9,7 @@
 
 1. [Build Web Url Query Params Method](https://bit.ly/3jIYAaE)
 2. [Contains MAC Address of the System Method](https://bit.ly/36ADho1)
-3. Convert Base64 to BitmapImage Method 
+3. [Convert Base64 to BitmapImage Method](https://bit.ly/2GlixGs) 
 4. Convert Bitmap to BitmapImage Method
 5. Convert Bitmap to Bytes Method
 6. Convert Bytes to Bitmap Method
