@@ -15,7 +15,7 @@
 2. [Contains MAC Address of the System Method](https://bit.ly/36ADho1)
 3. [Convert Base64 to BitmapImage Method](https://bit.ly/2GlixGs) 
 4. [Convert Bitmap to BitmapImage Method](https://bit.ly/3jLCPHh)
-5. Convert Bitmap to Bytes Method
+5. [Convert Bitmap to Bytes Method](https://bit.ly/3def9cj)
 6. Convert Bytes to Bitmap Method
 7. Convert Bytes to BitmapImage Method
 8. Convert DateTime to String Method
