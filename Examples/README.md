@@ -19,7 +19,7 @@
 6. [Convert Bytes to Bitmap Method](https://bit.ly/34RDAsp)
 7. [Convert Bytes to BitmapImage Method](https://bit.ly/2Ip168B)
 8. [Convert Date/Time to String Method](https://bit.ly/313Cl8m)
-9. [Convert DateTime to TimeSpan Method](https://bit.ly/3lIvAAO)
+9. [Convert Date/Time to Time Span Method](https://bit.ly/3lIvAAO)
 10. Convert List to Datatables Method
 11. Convert List to String Method
 12. Convert Number to Comma Separated Notation Method
