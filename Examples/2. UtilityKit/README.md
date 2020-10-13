@@ -14,7 +14,7 @@
 5. [Convert Bitmap to Bytes Method](https://bit.ly/3def9cj)
 6. [Convert Bytes to Bitmap Method](https://bit.ly/34RDAsp)
 7. [Convert Bytes to BitmapImage Method](https://bit.ly/2Ip168B)
-8. Convert DateTime to String Method
+8. [Convert Date/Time to String Method](https://bit.ly/313Cl8m)
 9. Convert DateTime to TimeSpan Method
 10. Convert List to Datatables Method
 11. Convert List to String Method
