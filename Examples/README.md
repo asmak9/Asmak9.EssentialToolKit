@@ -21,7 +21,7 @@
 8. [Convert Date/Time to String Method](https://bit.ly/313Cl8m)
 9. [Convert Date/Time to Time Span Method](https://bit.ly/3lIvAAO)
 10. [Convert List to Datatables Method](https://bit.ly/2ItRtFy)
-11. Convert List to String Method
+11. [Convert List to String Method](https://bit.ly/3m09vhh)
 12. Convert Number to Comma Separated Notation Method
 13. Convert Text to BitmapImage Method
 14. Convert TimeSpan to DateTime Method
