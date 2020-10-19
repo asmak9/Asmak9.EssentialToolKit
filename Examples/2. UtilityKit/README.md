@@ -1,7 +1,7 @@
 # Asmak9.EssentialToolKit Library
 **Asmak9.EssentialToolKit** is a 30 days free trial library that provides **UtilityKit**, **FileManagerKit** and **DateTimeFormats**  classes. **UtilityKit** class contains many commonly utilize methods, **FileManager** class contains many commonly utilize I/O operation methods and **DateTimeFormats** class provides many pre-defined Date/Time format values for quick/easy development. The **TrialExpirationInfo** class will provide detail information about this library's trial period expiration. You can install this library via Nuget package and enjoy 30 days free trial. You can use this library into your any .NET projects.
 
-### Nuget Installation Version 1.1.1: https://www.nuget.org/packages/Asmak9.EssentialToolKit/
+### Nuget Installation Version 1.1.2: https://www.nuget.org/packages/Asmak9.EssentialToolKit/
 
 ### [Buy License Key](https://bit.ly/3mzMQsU) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
