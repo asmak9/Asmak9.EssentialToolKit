@@ -103,7 +103,7 @@ datetimeFormats.FormatProperty;
 9. [Convert Date/Time to Time Span Method](https://bit.ly/3lIvAAO)
 10. [Convert List to Datatables Method](https://bit.ly/2ItRtFy)
 11. [Convert List to String Method](https://bit.ly/3m09vhh)
-12. Convert Number to Comma Separated Notation Method
+12. [Convert Number to Comma Separated Notation Method](https://bit.ly/3eePZuG)
 13. Convert Text to BitmapImage Method
 14. Convert TimeSpan to DateTime Method
 15. Decode Bytes From Base64 Method
