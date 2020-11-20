@@ -111,7 +111,7 @@ datetimeFormats.FormatProperty;
 17. [Encode Content to Base64 Method](https://bit.ly/3lqxR3D)
 18. [Get All MAC Addresses of the System Method](https://bit.ly/2IvghNw)
 19. [Get App Assembly Version Method](https://bit.ly/2K4urWs)
-20. Get App Configuration Settings Method
+20. [Get App Configuration Settings Method](https://bit.ly/36TvQag)
 21. Get App File Version Method
 22. Get Time Duration Method
 23. Get Total Days Method
