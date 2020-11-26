@@ -113,7 +113,7 @@ datetimeFormats.FormatProperty;
 19. [Get App Assembly Version Method](https://bit.ly/2K4urWs)
 20. [Get App Configuration Settings Method](https://bit.ly/36TvQag)
 21. [Get App File Version Method](https://bit.ly/3pZtHCA)
-22. Get Time Duration Method
+22. [Get Time Duration Method](https://bit.ly/3m9qtKv)
 23. Get Total Days Method
 24. Get Total Months Method
 25. Get Total Years Method
