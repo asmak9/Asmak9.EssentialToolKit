@@ -5,7 +5,7 @@
 
 ### [Buy License Key](https://bit.ly/3mzMQsU) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
-# UtilityKit class Methods Documentation (Coming Soon)
+# UtilityKit class Methods Documentation
 
 1. [Build Web Url Query Params Method](https://bit.ly/3jIYAaE)
 2. [Contains MAC Address of the System Method](https://bit.ly/36ADho1)
@@ -29,11 +29,11 @@
 20. [Get App Configuration Settings Method](https://bit.ly/36TvQag)
 21. [Get App File Version Method](https://bit.ly/3pZtHCA)
 22. [Get Time Duration Method](https://bit.ly/3m9qtKv)
-23. Get Total Days Method
-24. Get Total Months Method
-25. Get Total Years Method
-26. Internet Status Method
-27. Is Time AM Method
+23. [Get Total Days Method](https://bit.ly/2KBCytQ)
+24. [Get Total Months Method](https://bit.ly/3fIOGET)
+25. [Get Total Years Method](https://bit.ly/3fEgZV2)
+26. [Internet Status Method](https://bit.ly/33lSWoQ)
+27. [Is Time AM Method](https://bit.ly/36b4YTR)
 
 <br/>
 <br/>
