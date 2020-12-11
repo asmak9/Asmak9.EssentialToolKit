@@ -70,7 +70,7 @@
 
 # DateTimeFormats class Pre-Defined Formats
 
-1. DateTime Formats usage Documentation (Coming Soon)
+1. [DateTime Formats usage Documentation](https://bit.ly/377sSAb)
 
 ```C#
 /*
