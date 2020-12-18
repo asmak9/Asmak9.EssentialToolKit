@@ -1,7 +1,7 @@
 # CopyFile
 **CopyFile** provides running solution to copy file from one location to another using **Asmak9.EssentialToolKit** Nuget library in C#.NET Console Application.
 
-### Detail Article: [C#.NET: How to System Copy Files](https://bit.ly/37rtyR3)
+### Detail Article: [C#.NET: How to Copy System Files](https://bit.ly/37rtyR3)
 
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
