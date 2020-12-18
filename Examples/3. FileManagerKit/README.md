@@ -8,7 +8,7 @@
 # FileManagerKit class Methods Documentation (Coming Soon)
 
 1. [Convert File Image to Bytes Method](https://bit.ly/3ngwxRQ)
-2. Copy File Method
+2. [Copy File Method](https://bit.ly/37rtyR3)
 3. Copy Folder Method 
 4. Create File Method 
 5. Create Folder Method
