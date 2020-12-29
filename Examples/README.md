@@ -46,7 +46,7 @@
 3. [Copy Folder Method](https://bit.ly/3rbzWnz) 
 4. [Create File Method](https://bit.ly/3pcATKc) 
 5. [Create Folder Method](https://bit.ly/3hoouA9)
-6. Export CSV File Method
+6. [Export CSV File Method](https://bit.ly/2Jx9NP2)
 7. Get AppData Local Folder Full Path Method
 8. Get AppData Local Temp Folder Full Path Method
 9. Get AppData Roaming Folder Full Path Method 
