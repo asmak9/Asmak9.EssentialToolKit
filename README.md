@@ -129,7 +129,7 @@ datetimeFormats.FormatProperty;
 5. [Create Folder Method](https://bit.ly/3hoouA9)
 6. [Export CSV File Method](https://bit.ly/2Jx9NP2)
 7. [Get AppData Local Folder/File Full Path Method](https://bit.ly/3qajEtu)
-8. Get AppData Local Temp Folder Full Path Method
+8. [Get AppData Local Temp Folder Full Path Method](https://bit.ly/2LUljFo)
 9. Get AppData Roaming Folder Full Path Method 
 10. Get Desktop Folder Full Path Method
 11. Get MyDocument Folder Full Path
