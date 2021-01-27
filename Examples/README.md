@@ -50,7 +50,7 @@
 7. [Get AppData Local Folder/File Full Path Method](https://bit.ly/3qajEtu)
 8. [Get AppData Local Temp Folder Full Path Method](https://bit.ly/2LUljFo)
 9. [Get AppData Roaming Folder Full Path Method](https://bit.ly/3a34tw3) 
-10. Get Desktop Folder Full Path Method
+10. [Get Desktop Folder Full Path Method](https://bit.ly/3iWTlVp)
 11. Get MyDocument Folder Full Path
 12. Get Project Folder Full Path Method
 13. Get Random File Name Method
