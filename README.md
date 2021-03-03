@@ -134,7 +134,7 @@ datetimeFormats.FormatProperty;
 9. [Get AppData Roaming Folder Full Path Method](https://bit.ly/3a34tw3) 
 10. [Get Desktop Folder Full Path Method](https://bit.ly/3iWTlVp)
 11. [Get MyDocument Folder Full Path] (https://bit.ly/305BLG0)
-12. Get Project Folder Full Path Method
+12. [Get Project (Visual Studio) Folder Full Path Method](https://bit.ly/3uRRsPA)
 13. Get Random File Name Method
 14. Get Windows Folder Full Path Method
 15. Get Windows Program File Folder Full Path Method
