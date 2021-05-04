@@ -56,8 +56,8 @@
 12. [Get Project (Visual Studio) Folder Full Path Method](https://bit.ly/3uRRsPA)
 13. [Get Random File Name Method](https://bit.ly/3tAFxUu)
 14. [Get Windows Folder Full Path Method](https://bit.ly/2O8beWo)
-15. [Get Windows Program File Folder Full Path Method](https://bit.ly/3dZhBnD)
-16. Get Windows Program File X86 Folder Full Path Method
+15. [Get Windows Program Files Folder Full Path Method](https://bit.ly/3dZhBnD)
+16. [Get Windows Program Files X86 Folder Full Path Method](https://bit.ly/2RkSfcu)
 17. Import CSV File Method
 18. Move File Method
 19. Move Folder Method
