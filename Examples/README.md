@@ -58,7 +58,7 @@
 14. [Get Windows Folder Full Path Method](https://bit.ly/2O8beWo)
 15. [Get Windows Program Files Folder Full Path Method](https://bit.ly/3dZhBnD)
 16. [Get Windows Program Files X86 Folder Full Path Method](https://bit.ly/2RkSfcu)
-17. Import CSV File Method
+17. [Import CSV File Method](https://bit.ly/3h919ES)
 18. Move File Method
 19. Move Folder Method
 20. Remove File Method
