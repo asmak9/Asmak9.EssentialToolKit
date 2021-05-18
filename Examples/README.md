@@ -22,7 +22,7 @@
 9. [Convert Date/Time to Time Span Method](https://bit.ly/3lIvAAO)
 10. [Convert List to Datatables Method](https://bit.ly/2ItRtFy)
 11. [Convert List to String Method](https://bit.ly/3m09vhh)
-12. [Convert List to String Array inside List Method](https://bit.ly/36CZNvH)
+12. [Convert List to List<string[]> Method](https://bit.ly/36CZNvH)
 13. [Convert Number to Comma Separated Notation Method](https://bit.ly/3eePZuG)
 14. [Convert Text to BitmapImage Method](https://bit.ly/327Vvdt)
 15. [Convert TimeSpan to DateTime Method](https://bit.ly/2I8j3sf)
