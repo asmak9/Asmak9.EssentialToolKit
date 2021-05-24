@@ -1,7 +1,7 @@
 # ConvertListToStringArrayInList
-**ConvertListToStringArrayInList** provides running solution to Convert List to String Array inside List Data Type using **Asmak9.EssentialToolKit** Nuget library in C#.NET Console Application.
+**ConvertListToStringArrayInList** provides running solution to Convert List to List<string[]> Data Type using **Asmak9.EssentialToolKit** Nuget library in C#.NET Console Application.
 
-### Detail Article: [C#.NET: How to Convert List to String Array inside List Data Type](https://bit.ly/36CZNvH)
+### Detail Article: [C#.NET: How to Convert List to List<string[]> Data Type](https://bit.ly/36CZNvH)
 
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
