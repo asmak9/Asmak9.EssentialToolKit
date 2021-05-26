@@ -60,7 +60,7 @@
 16. [Get Windows Program Files X86 Folder Full Path Method](https://bit.ly/2RkSfcu)
 17. [Import CSV File Method](https://bit.ly/3h919ES)
 18. [Move File Method](https://bit.ly/3fJDS9Q)
-19. Move Folder Method
+19. [Move Folder Method](https://bit.ly/3fL2fUS)
 20. Remove File Method
 21. Remove Folder Method
 22. UnZip Folder Method
