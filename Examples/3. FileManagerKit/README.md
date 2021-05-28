@@ -26,7 +26,7 @@
 17. [Import CSV File Method](https://bit.ly/3h919ES)
 18. [Move File Method](https://bit.ly/3fJDS9Q)
 19. [Move Folder Method](https://bit.ly/3fL2fUS)
-20. Remove File Method
+20. [Remove File Method](https://bit.ly/34qEyMk)
 21. Remove Folder Method
 22. UnZip Folder Method
 23. Write Base64 to File Method
