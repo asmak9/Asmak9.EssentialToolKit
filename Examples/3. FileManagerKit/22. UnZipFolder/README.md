@@ -1,5 +1,5 @@
 # UnZipFolder
-**UnZipFolder** provides running solution to unzip or extract zip or archive folder from system's provided location using **Asmak9.EssentialToolKit** Nuget library in C#.NET Console Application.
+**UnZipFolder** provides running solution to unzip or extract zip or Unarchive folder from system's provided location using **Asmak9.EssentialToolKit** Nuget library in C#.NET Console Application.
 
 ### Detail Article: [C#.NET: How to Unzip Folder](https://bit.ly/2SwZUoQ)
 

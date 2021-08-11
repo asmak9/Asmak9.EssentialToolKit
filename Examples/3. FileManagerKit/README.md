@@ -5,7 +5,7 @@
 
 ### [Buy License Key](https://bit.ly/3mzMQsU) Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
-# FileManagerKit class Methods Documentation (Coming Soon)
+# FileManagerKit class Methods Documentation
 
 1. [Convert File Image to Bytes Method](https://bit.ly/3ngwxRQ)
 2. [Copy File Method](https://bit.ly/37rtyR3)
@@ -32,7 +32,7 @@
 23. [Write Base64 to File Method](https://bit.ly/2UH4eT9)
 24. [Write Binary Content to File Method](https://bit.ly/3qO1u2r)
 25. [Write Content to File Method](https://bit.ly/3i4Vr6M)
-26. Zip Folder Method
+26. [Zip Folder Method](https://bit.ly/37yXjPm)
 
 <br/>
 <br/>
